@@ -1,0 +1,55 @@
+
+.projects-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Open Sans", sans-serif;
+    
+    height: 100vh;
+    background-color: var(--bg-light);
+    
+
+
+    img{
+        width: 225px;
+        
+        
+        
+    }
+
+    a{
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+     
+    }
+    h2{
+        margin: 4px;
+        text-transform: uppercase;
+        font-size: 16px;
+    }
+}
+
+.project{
+    margin: 24px;
+}
+
+.project-wrap{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.project-header{
+    
+    text-shadow: 3px 3px 3px #000;
+    width: fit-content;
+    margin: 32px auto;
+    padding: 8px;
+    color: white;
+    border-radius: 5px;
+    font-family: "Forum" , serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+}

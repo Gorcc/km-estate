@@ -1,0 +1,21 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid var(--bg-black);
+    font-family: "Open Sans" , sans-serif;
+    font-weight: bold;
+    li{
+        list-style: none;
+    }
+
+    a{
+        margin: 0 12px;
+        text-decoration: none;
+        color: var(--bg-black);
+    }
+
+    img{
+        width: 100px;
+    }
+}

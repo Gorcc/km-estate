@@ -1,0 +1,12 @@
+:root{
+    --bg-light:#D6D2C4;
+    --bg-dark:#F8F6F1;
+
+    --bg-black:#303030;
+}
+
+
+body{
+    background-color: var(--bg-light);
+    overflow-x: hidden;
+}
