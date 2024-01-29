@@ -24,49 +24,49 @@ const Projects = () => {
                         </a>
                     </div>
                     <div className="project">
-                        <a href="#">
+                        <a href="/mykanos">
                             <img src={MykonosLogo} alt="Bahamas Logo" />
 
                         </a>
                     </div>
                     <div className="project">
-                        <a href="#">
+                        <a href="/hawaii">
                             <img src={HawaiiLogo} alt="Bahamas Logo" />
 
                         </a>
                     </div>
                     <div className="project">
-                        <a href="#">
+                        <a href="/moonlight">
                             <img src={MoonLogo} alt="Bahamas Logo" />
 
                         </a>
                     </div>
                     <div className="project">
-                        <a href="#">
+                        <a href="/aloha">
                             <img src={AlohaLogo} alt="Bahamas Logo" />
 
                         </a>
                     </div>
                     <div className="project">
-                        <a href="#">
+                        <a href="/phuket">
                             <img src={PhuketLogo} alt="Bahamas Logo" />
 
                         </a>
                     </div>
                     <div className="project">
-                        <a href="#">
+                        <a href="/maldives">
                             <img src={MaldiveLogo} alt="Bahamas Logo" />
 
                         </a>
                     </div>
                     <div className="project">
-                        <a href="#">
+                        <a href="/idyll">
                             <img src={IDYLL} alt="Bahamas Logo" />
 
                         </a>
                     </div>
                     <div className="project">
-                        <a href="#">
+                        <a href="/pearl">
                             <img src={PearlLogo} alt="Bahamas Logo" />
 
                         </a>

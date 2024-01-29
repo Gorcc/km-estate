@@ -6,6 +6,12 @@ import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Bahamas from "./Pages/Bahamas";
+import Mykanos from "./Pages/Mykanos";
+import Hawaii from "./Pages/Hawaii";
+import Moonlight from "./Pages/Moonlight";
+import Aloha from "./Pages/Aloha";
+import Phuket from "./Pages/Phuket";
+import Maldives from "./Pages/Maldives";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -16,6 +22,12 @@ root.render(
           <Route index element={<App />} />
         </Route>
         <Route path="/bahamas" element={<Bahamas />}></Route>
+        <Route path="/mykanos" element={<Mykanos />}></Route>
+        <Route path="/hawaii" element={<Hawaii />}></Route>
+        <Route path="/moonlight" element={<Moonlight />}></Route>
+        <Route path="/aloha" element={<Aloha />}></Route>
+        <Route path="/phuket" element={<Phuket />}></Route>
+        <Route path="/maldives" element={<Maldives />}></Route>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

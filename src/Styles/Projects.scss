@@ -33,6 +33,11 @@
 
 .project{
     margin: 24px;
+    transition: 0.3s all ease;
+}
+
+.project:hover{
+    transform: scale(1.1);
 }
 
 .project-wrap{

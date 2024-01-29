@@ -18,6 +18,22 @@ const Bahamas = () => {
             carousel1={Carausel1}
             carousel2={Carausel2}
             carousel3={Carausel3}
+            explenation="Bahamas Homes offers a wide range of amenities for you to take advantage of. Everything you need is simply within your reach:"
+            li1="Restaurants"
+            li2="Outdoor Cinema"
+            li3="Kids Playground"
+            li4="Indoor Heated Pool"
+            li5="Wellness Center"
+            li6="Sauna"
+            li7="Hamam (Turkish Bath)"
+            li8="Mini Market"
+            li9="Cafe"
+            li10="Exchange Shop"
+            li11="Pharmacy & First Aid"
+
+            services="Bahamas Homes offers a wide range of services for its homeowners or rental guests. These include but are not limited to: concierge services, rental services, shuttle services, laundry services, house keeping and beauty center.
+
+            Furthermore, pre-sale and after-sale services will also be provided to the residents of Bahamas Homes. Any needs or requirements in property related matters will be dealt by our 24/7 services."
         />
     )
 }

@@ -3,7 +3,7 @@ import "../Styles/LearnMore.scss"
 import KadirImg from "../Assets/KadirFullImg.png"
 const LearnMore = () => {
     return (
-        <div className='learnmore-container'>
+        <div className='learnmore-container' id='about-us'>
 
             <div className="learnmore-left">
                 <img src={KadirImg} alt="" />
