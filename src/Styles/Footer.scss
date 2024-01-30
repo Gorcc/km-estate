@@ -1,49 +1,8 @@
-.footer-container{
-    background-color: var(--bg-black);
-    display: flex;
-    justify-content: space-around;
 
-    align-items: center;
-    height: 100px;
-
-    h4{
-        color: var(--bg-dark);
-    }
-    h5{
-        font-size: 12px;
-        font-weight: lighter;
-        color: var(--bg-dark);
-    }
-}
-
-.footer-right{
-
-    ul{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-
-        li{
-            list-style: none;
-            margin: 0 8px;
-
-            a{
-                text-decoration: none;
-                color: white;
-                font-family: "Open Sans", sans-serif;
-                font-size: 14px;
-            }
-        }
-    }
-    
-}
-
-.footer-icon{
-    margin-right: 12px;
-}
 
 .rights{
    
     
     color: gray;
 }
+

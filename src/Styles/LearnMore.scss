@@ -7,8 +7,9 @@
 
 .learnmore-left{
     background-color: var(--bg-light) ;
-    width: 50%;
+    width: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
@@ -16,6 +17,7 @@
         width: 500px;
         height: 500px;
         object-fit: contain;
+        margin-bottom: 12px;
     }
 
     
@@ -25,7 +27,7 @@
 .learnmore-right{
     background-color: var(--bg-dark);
     font-family: "Forum", serif;
-    width: 50%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;

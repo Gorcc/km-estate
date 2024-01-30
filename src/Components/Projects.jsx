@@ -9,12 +9,13 @@ import PhuketLogo from "../Assets/Copy of Phuket_Logo_White_gBG.png"
 import MaldiveLogo from "../Assets/1.Maldives Homes.jpeg"
 import IDYLL from "../Assets/IDYLL Homes LOGO.jpeg"
 import PearlLogo from "../Assets/1.Pearl Island Homes.jpeg"
+import Footer from './Footer'
 
 const Projects = () => {
     return (
         <>
 
-            <div className='projects-container'>
+            <div className='projects-container' id='projects'>
                 <h1 className='project-header'>Projects</h1>
                 <div className="project-wrap">
                     <div className="project">
@@ -75,6 +76,7 @@ const Projects = () => {
 
 
             </div>
+            
         </>
     )
 }

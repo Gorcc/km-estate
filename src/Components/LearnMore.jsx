@@ -7,14 +7,13 @@ const LearnMore = () => {
 
             <div className="learnmore-left">
                 <img src={KadirImg} alt="" />
+                <h5>Kadir Çetin</h5>
             </div>
             <div className="learnmore-right">
                 <h1>About us</h1>
-                <p>This page should focus on the law firm or the lawyer's background. As with the usual About Us pages, you can talk about the history, track record, or even the guiding principles of the firm/lawyer.
-
-                    This page should focus on the law firm or the lawyer's background. As with the usual About Us pages, you can talk about the history, track record, or even the guiding principles of the firm/lawyer.</p>
-                <a href="" className='learnmore-btn'>Projects</a>
-                <a href="" className='learnmore-btn'>Contact Us</a>
+                <p>Our small real estate company offers great opportunities for you. Possibility of paying construction companies without bank credit. Rapid increase in value. Rental service provided by the construction company on your behalf. Opportunity to trade with cryptocurrency. Additionally, benefit from short amortization periods. Explore more about our projects and offerings by checking our portfolio.</p>
+                <a href="#projects" className='learnmore-btn'>Projects</a>
+                <a href="/contact" className='learnmore-btn'>Contact Us</a>
             </div>
         </div>
     )

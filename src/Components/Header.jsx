@@ -18,16 +18,24 @@ function Header() {
         {/* Navbar content */}
         <Navbar.Collapse id="basic-navbar-nav">
           {/* Use "ms-auto" to push the nav items to the right */}
-          <Nav className="ms-auto">
+          <Nav className="">
             <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/contact">Contact</Nav.Link>
 
             {/* Projects dropdown */}
             <NavDropdown title="Projects" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+              <NavDropdown.Item href="/bahamas">Bahamas Homes</NavDropdown.Item>
+              <NavDropdown.Item href="/mykanos">Mykanos Homes</NavDropdown.Item>
+              <NavDropdown.Item href="/hawaii">Hawaii Homes</NavDropdown.Item>
+              <NavDropdown.Item href="/moonlight">Moonlight Villas</NavDropdown.Item>
+              <NavDropdown.Item href="/aloha">Aloha Beach Resort</NavDropdown.Item>
+              <NavDropdown.Item href="/phuket">Phuket Health & Wellness Resort</NavDropdown.Item>
+          
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+              <p className='text-center'>Completed Projects </p>
+              <NavDropdown.Item href="/maldives">Maldives Homes</NavDropdown.Item>
+              <NavDropdown.Item href="/idyll">IDYLL Homes</NavDropdown.Item>
+              <NavDropdown.Item href="/pearl">Pearl Island</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>

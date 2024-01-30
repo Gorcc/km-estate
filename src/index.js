@@ -12,6 +12,9 @@ import Moonlight from "./Pages/Moonlight";
 import Aloha from "./Pages/Aloha";
 import Phuket from "./Pages/Phuket";
 import Maldives from "./Pages/Maldives";
+import IDYLL from "./Pages/IDYLL";
+import Pearl from "./Pages/Pearl";
+import Contact from "./Pages/Contact";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -28,6 +31,9 @@ root.render(
         <Route path="/aloha" element={<Aloha />}></Route>
         <Route path="/phuket" element={<Phuket />}></Route>
         <Route path="/maldives" element={<Maldives />}></Route>
+        <Route path="/idyll" element={<IDYLL   />}></Route>
+        <Route path="/pearl" element={<Pearl   />}></Route>
+        <Route path="/contact" element={<Contact   />}></Route>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

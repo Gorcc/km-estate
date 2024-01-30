@@ -37,7 +37,7 @@
 }
 
 .project:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .project-wrap{
@@ -48,13 +48,13 @@
 
 .project-header{
     
-    text-shadow: 3px 3px 3px #000;
+    text-shadow: 3px 3px 3px gray;
     width: fit-content;
     margin: 32px auto;
     padding: 8px;
-    color: white;
+    color: black;
     border-radius: 5px;
     font-family: "Forum" , serif;
     text-transform: uppercase;
-    font-weight: lighter;
+    font-weight: bold;
 }

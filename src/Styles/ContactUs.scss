@@ -1,0 +1,50 @@
+.contactus-container{
+    height: 62vh;
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.contactus-element{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+
+    svg{
+        margin-bottom: 40px;
+        width: 100px;
+        height: 100px;
+    }
+
+    h4{
+        text-transform: uppercase;
+        font-family: "Forum", serif;
+        font-weight: bold;
+    }
+
+    h5{
+        background-color: var(--bg-black);
+        padding: 8px;
+        border-radius: 5px;
+        color: white;
+
+    }
+
+    a{
+        color: white;
+        text-decoration: none;
+    }
+}
+
+.contactus-header{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Forum", serif;
+    font-weight: bold;
+    margin-top: 24px;
+    font-size: 24px;
+}
