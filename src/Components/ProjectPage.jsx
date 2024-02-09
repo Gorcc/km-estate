@@ -44,7 +44,7 @@ const ProjectPage = (props) => {
                     </div>
                 </div>
 
-                <div className="facilities-services">
+               {props.explenation ?  <div className="facilities-services">
                     <div className="facilities">
                         <h2>AMENITIES & FACILITIES</h2>
                         <p>{props.explenation}</p>
@@ -67,8 +67,8 @@ const ProjectPage = (props) => {
                         <p>{props.services}</p>
                     </div> : ""}
 
-                </div>
-        
+                </div> : ""} 
+              
                 <div className="contact">
                     <div className="contact-wrap">
                         <div className="contact-left">

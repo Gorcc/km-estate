@@ -9,6 +9,6 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background-color: var(--bg-light);
+    
     overflow-x: hidden;
 }

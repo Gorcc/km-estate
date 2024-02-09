@@ -15,6 +15,7 @@ import Maldives from "./Pages/Maldives";
 import IDYLL from "./Pages/IDYLL";
 import Pearl from "./Pages/Pearl";
 import Contact from "./Pages/Contact";
+import Land from "./Pages/Land";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -34,6 +35,7 @@ root.render(
         <Route path="/idyll" element={<IDYLL   />}></Route>
         <Route path="/pearl" element={<Pearl   />}></Route>
         <Route path="/contact" element={<Contact   />}></Route>
+        <Route path="/land" element={<Land   />}></Route>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

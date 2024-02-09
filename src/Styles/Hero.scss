@@ -74,7 +74,12 @@
 
   .learnmore-container {
     flex-direction: column;
+    
     height: 100%;
+    .learnmore-left{
+      margin-bottom: 32px 0;
+    }
+  
 
     img {
       margin: 32px;
@@ -82,37 +87,41 @@
   }
 
   .projects-container {
-    height: 100%;
-    margin-top: 140px;
+    
+
+    margin-top: 300px;
 
     img {
       width: 75px !important;
+      height: 75px !important;
     }
   }
 
   .projectpage-wrap {
     flex-direction: column;
-
-    
   }
   .facilities-services {
     flex-direction: column;
   }
 
- .contact-wrap{
-  a{
-    margin: 12px;
+  .contact-wrap {
+    a {
+      margin: 12px;
+    }
+    img {
+      display: none;
+    }
+    .contact-element {
+      margin: 12px;
+    }
+    flex-direction: column;
   }
-  img{
-    display: none;
+  .contactus-container {
+    height: 100% !important;
   }
- .contact-element{
-  margin: 12px;
- }
-  flex-direction: column;
- }
- .contactus-container{
-  height: 100% !important;
-
-}
+  .header-flex{
+   
+    
+    flex-direction: column !important;
+  }
 }
