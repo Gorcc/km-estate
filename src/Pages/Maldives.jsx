@@ -10,7 +10,7 @@ const Moonlight = () => {
     return (
         <ProjectPage
         project="MALDIVES HOMES"
-            image={HeroImg}
+            image="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/Maldives/maldives1.jpg"
             description="Maldives Homes are comprised of uniquely built villas and luxury apartments. Reknown as the most popular village, Esentepe is surrounded with numerous amenities, making the area a rising star for property investment in Northern Cyprus.
 
             The exotic Maldives villas and apartments have an unobstructed north facing view towards the Mediterranean Sea, with panoramic views of both the Five Finger Mountains and the Mediterranean Sea. The site is only 20mt to the sea: with a magnificent lagoon to be used as your own private beach.

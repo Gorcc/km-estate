@@ -10,7 +10,7 @@ const Bahamas = () => {
     return (
         <ProjectPage
         project="Hawaii Homes"
-            image={HeroImg}
+            image="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/Hawaii/hawaiifull.png"
             description="Hawaii homes is cyprus constructions biggest sea side residential project with studios, 1+1, 2+1 loft penthouses, and 3 bedroom luxury villas having a total unit count of 500. Situated on the coast of tatlisu the project features artificial rivers, lakes, and islands spread across the site with the addition of our famous garden designs. Facilities on site are indoor heated pool, spa center, restaurant, bar, gym, basketball and tennis court. The project is set to complete end of 2025.
 
             There are 3 property type in Hawaii Homes. Type A 1+1 and 2+1 apartments, Type B studios, and Type C villas."

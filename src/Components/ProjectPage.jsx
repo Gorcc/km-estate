@@ -72,7 +72,7 @@ const ProjectPage = (props) => {
                 <div className="contact">
                     <div className="contact-wrap">
                         <div className="contact-left">
-                            <img src={Phone} alt="-" />
+                            <img src="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/phone.svg" alt="-" />
                         </div>
                         <div className="contact-right">
                             <h2>Contact us</h2>

@@ -9,7 +9,7 @@ const Aloha = () => {
     return (
         <ProjectPage
         project="ALOHA BEACH RESORT"
-            image={HeroImg}
+            image="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/Aloha/alohafull.png"
             description="The complex is located on 80 hectares of land in the picturesque area of ​​TATLISU on the first coastline.
             800 meters away is the HAWAII HOMES complex, and 6.5 km, on the other hand, the BAHAMAS HOMES complex, access to which is free for residents of Aloha Beach resort.
             The concept of the project is READY TO MOVE. The price includes furniture and household appliances. Modern kitchen and bathrooms. Central air conditioning system. Card entry system.

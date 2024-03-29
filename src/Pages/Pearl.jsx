@@ -10,7 +10,7 @@ const Pearl = () => {
     return (
         <ProjectPage
         project="PEARL ISLAND"
-            image={HeroImg}
+            image="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/Pearl/pearlfull.png"
             description="Pearl Island consist of 156 studio apartments: ground floor studio apartments have 35m2 gross area, 8m2 garden terrace and studio apartments on the first floor with 35m2 gross area, 8m2 terrace and 35m2 roof terrace.
 
             There is a communal swimming pool with salt water treatment system on the site and children swimming pool."

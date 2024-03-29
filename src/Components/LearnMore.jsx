@@ -6,7 +6,7 @@ const LearnMore = () => {
         <div className='learnmore-container' id='about-us'>
 
             <div className="learnmore-left">
-                <img src={KadirImg} alt="" />
+                <img src="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/KadirFullImg.png" alt="" />
                 <h5>Kadir Çetin</h5>
             </div>
             <div className="learnmore-right">

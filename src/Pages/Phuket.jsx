@@ -9,7 +9,7 @@ const Phuket = () => {
     return (
         <ProjectPage
         project="PHUKET HEALTH & WELLNESS RESORT"
-            image={HeroImg}
+            image="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/Phuket/phuketfull.png"
             description="Phuket Health & Wellness Resort includes Luxury Villas, Apartments & Studios.
             Feel the luxury in this uniquely designed project."
             carousel1={Carausel1}

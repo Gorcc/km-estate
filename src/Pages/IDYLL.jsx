@@ -10,7 +10,7 @@ const IDYLL = () => {
     return (
         <ProjectPage
         project="IDYLL HOMES"
-            image={HeroImg}
+            image="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/IDYLL/idyllfull.png"
             description="Idyll Homes is an affordable luxury project in Esentepe. Reknown as the most popular village, the numerous amenities surrounding Esentepe makes any property investment in the area is well worth it.
 
             Idyll is comprised of a communal pool and 7 blocks of two-storey apartments, which include 1+1 and 2+1 ground floor apartments/penthouses. With its marvelous mountain view and close range to the sea Idyll Homes is the perfect place for those seeking a peaceful yet luxury life style."

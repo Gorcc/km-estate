@@ -8,7 +8,7 @@ const Land = () => {
   return (
     <ProjectPage
     project="BUY LAND IN NORTH CYPRUS!"
-    image={HeroImg}
+    image="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/land.jpg"
     description={(
       <div>
         Discover your dream property in Cyprus with our expert assistance by your side.<br/>

@@ -10,7 +10,7 @@ const Moonlight = () => {
     return (
         <ProjectPage
         project="MOONLIGHT VILLAS"
-            image={HeroImg}
+            image="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/Moon/moonfull.png"
             description="Moonlight Villas are 6 high quality and smart villas on the esentepe coast. 3 bedroom and 3 bathroom duplex villas with direct sea view and private pool. Made to be the perfect holiday home while still being a great investment oppurtunity. Each villa has its own outdoor cinema, water fall and sunken terrace in the pool with fire pit. Moonlight villas are located very close to our Idyll Homes project and esentepe municipality beach."
             carousel1={Carausel1}
             carousel2={Carausel2}

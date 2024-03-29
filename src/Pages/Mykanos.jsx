@@ -10,7 +10,7 @@ const Mykanos = () => {
     return (
         <ProjectPage
             project="MYKONOS HOMES"
-            image={HeroImg}
+            image="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/Mykanos/mykanosfull.png"
             description="Mykonos Homes is a unique new luxury project from Cyprus Constructions. The site is located next to our Maldives Homes project in Esentepe, which is one of the most popular villages and is surrounded by the numerous amenities . The concept design of Mykonos Homes was inpsired by the famous Cavo Tagoo Hotel in Greece.
 
             Mykonos Homes is comprised of 8 blocks of two-storey apartments, which include 1+1, 2+1, 3+1 ground floor luxury apartments and penthouses. Moreover, there are 8 villas located on the front line.

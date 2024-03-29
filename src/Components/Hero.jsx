@@ -15,7 +15,7 @@ const Hero = () => {
                 <a href="#about-us" className='hero-btn'>Learn More</a>
             </div>
             <div className="hero-right">
-                <img src={HeroImg} alt="" />
+                <img src="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/kmestates/melimg.png" alt="" />
                 <h5>Melisa Çetin</h5>
             </div>
         </div>
